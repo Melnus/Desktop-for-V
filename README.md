@@ -4,6 +4,13 @@
 <br>・デスクトップを表示するために二種類の画面を表示させる
 <br>・VRMのモデルを配置して一緒にいる感を出す
 <br>・デスクトップで作業用ソフトを表示しつつ長時間作業に耐えられるようにする
+<br>
+<br>使い方
+<br>・SteamVRが使えるHTC VIVE等のデバイスをつないでおく
+<br>・適当にセットアップしたのちカメラ機能をON
+<br>・Windowモードで起動
+<br>・real desktopでカメラの投影、on/offでPCのデスクトップを投影
+<br>・モデルの切り替え機能は今のところなし
 
 <br>使わせていただいたもの
 <br>・UniWinApi
@@ -14,3 +21,5 @@
 <br>https://github.com/hecomi/uDesktopDuplication
 <br>・VRM
 <br>https://github.com/dwango/UniVRM
+<br>・SteamVR
+<br>https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
