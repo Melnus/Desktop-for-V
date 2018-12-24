@@ -15,11 +15,20 @@
 <br>使わせていただいたもの
 <br>・UniWinApi
 <br>https://github.com/kirurobo/UniWinApi
+<br>https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+<br>
 <br>・uWindowCapture
 <br>https://github.com/hecomi/uWindowCapture
+<br>The MIT License (MIT) Copyright (c) 2018 hecomi (see readme on the page)
+<br>
 <br>・uDesktopDuplication
 <br>https://github.com/hecomi/uDesktopDuplication
+<br>The MIT License (MIT) Copyright (c) 2016 hecomi (see readme on the page)
+<br>
 <br>・VRM
 <br>https://github.com/dwango/UniVRM
+<br>https://github.com/dwango/UniVRM/blob/master/LICENSE.txt
+<br>
 <br>・SteamVR
 <br>https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
+<br>https://github.com/ValveSoftware/steamvr_unity_plugin/blob/master/LICENSE
