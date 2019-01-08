@@ -11,8 +11,26 @@
 <br>・Windowモードで起動
 <br>・real desktopでカメラの投影、on/offでPCのデスクトップを投影
 <br>・モデルの切り替え機能は今のところなし
-
+<br>
+<br>
+<br>this is Virtual Desktop double as My portfolio in VR space about My Models.
+<br>I aim to stay in VR space for a long time, and create/work/play by VR apps such as this Virtual Desktop.
+<br>
+<br>you may be able to do that in here;
+<br>-display some window from real desktop on your computer.
+<br>-Play with Character Models 
+<br>-etc... for now
+<br>-
+<br>
+<br>how to use
+<br>-set up HTC VIVE (or a Device corresponding for SteamVR) normally.
+<br>-turn on front camera on settings of Vive (steamVR).
+<br>-start this app on window mode.
+<br>-press alt+tab and do as you like.
+<br>
+<br>
 <br>使わせていただいたもの
+<br>Including the following (and also Special Thanks to):
 <br>・UniWinApi
 <br>https://github.com/kirurobo/UniWinApi
 <br>https://creativecommons.org/publicdomain/zero/1.0/deed.ja
