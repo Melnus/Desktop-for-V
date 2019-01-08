@@ -32,3 +32,9 @@
 <br>・SteamVR
 <br>https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 <br>https://github.com/ValveSoftware/steamvr_unity_plugin/blob/master/LICENSE
+<br>
+<br>・Oculus Spatializer Unity(since Desktop for V Version 1.4.4)
+<br>https://developer.oculus.com/downloads/package/oculus-spatializer-unity/
+<br>https://developer.oculus.com/licenses/audio-3.3/
+<br>
+<br>
